@@ -1,0 +1,2 @@
+2018-01-19 14:13:02		INFO		MQTT_CLIENT             Trying to connect to 'localhost:1883' as b'root-74:e5:0b:3b:20:58' with keepalive 60, 2 second/s delay
+2018-01-19 14:13:02		INFO		MQTT_CLIENT             Client connected on broker

@@ -1,0 +1,66 @@
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="../static/custom/css/global_style.css">
+</head>
+<body>
+    <h2>NODE INFO</h2>
+    <br>
+    <h3>Basic</h3>
+    <hr>
+    <table class="info">
+        <tr>
+            <td><b>id:</b></td>
+            <td class="data">{{id}}</td>
+        </tr>
+        <tr>
+            <td><b>alias:</b></td>
+            <td class="data">{{alias}}</td>
+        </tr>
+    </table>
+    <br>
+    <h3>Components</h3>
+    <hr>
+    {% for component in components: %}
+        <table>
+            <tr>
+                <td><b>id used:</b></td>
+                <td>{{component['id_used']}}</td>
+            </tr>
+            <tr>
+                <td><b>type:</b></td>
+                <td>{{component['type']}}</td>
+            </tr>
+            <tr>
+                <td><b>name:</b></td>
+                <td>{{component['name']}}</td>
+            </tr>
+            <tr>
+                <td><b>alias:</b></td>
+                <td>{{component['alias']}}</td>
+            </tr>
+        </table>
+
+        <table border="1" cellpadding="3" width="600">
+            <tr>
+                <th>value type</th>
+                <th>alias</th>
+                <th>measuring unit</th>
+                <th>measurement period</th>
+                <th>settings valid from</th>
+                <th>data</th>
+            </tr>
+            {% for value_type in component['value_types']: %}
+                <tr>
+                    <td>{{value_type['value_type']}}</td>
+                    <td>{{value_type['alias']}}</td>
+                    <td>{{value_type['measuring_unit']}}</td>
+                    <td>{{value_type['measurement_period']}}</td>
+                    <td>{{value_type['settings_valid_from']}}</td>
+                    <td><a href="measurements">data</a></td>
+                </tr>
+            {% endfor %}
+        </table>
+        <br>
+    {% endfor %}
+</body>
+</html>

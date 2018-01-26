@@ -1,0 +1,385 @@
+2018-01-22 20:00:39		INFO		MQTT_CLIENT             Trying to connect to 'localhost:1883' as b'root-74:e5:0b:3b:20:58' with keepalive 60, 2 second/s delay
+2018-01-22 20:00:39		INFO		MQTT_CLIENT             Client connected on broker
+2018-01-22 20:00:40		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:00:40		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:00:40		INFO		MQTT_CLIENT             
+2018-01-22 20:00:41		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:00:41		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:00:41		INFO		MQTT_CLIENT             
+2018-01-22 20:00:42		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:00:42		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:00:42		INFO		MQTT_CLIENT             
+2018-01-22 20:00:43		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:00:43		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:00:43		INFO		MQTT_CLIENT             
+2018-01-22 20:00:44		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:00:44		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:00:44		INFO		MQTT_CLIENT             
+2018-01-22 20:00:45		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:00:45		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:00:45		INFO		MQTT_CLIENT             
+2018-01-22 20:00:46		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:00:46		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:00:46		INFO		MQTT_CLIENT             
+2018-01-22 20:00:47		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:00:47		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:00:47		INFO		MQTT_CLIENT             
+2018-01-22 20:00:48		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:00:48		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:00:48		INFO		MQTT_CLIENT             
+2018-01-22 20:00:49		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:00:49		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:00:49		INFO		MQTT_CLIENT             
+2018-01-22 20:00:50		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:00:50		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:00:50		INFO		MQTT_CLIENT             
+2018-01-22 20:00:51		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:00:51		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:00:51		INFO		MQTT_CLIENT             
+2018-01-22 20:00:52		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:00:52		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:00:52		INFO		MQTT_CLIENT             
+2018-01-22 20:00:53		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:00:53		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:00:53		INFO		MQTT_CLIENT             
+2018-01-22 20:00:54		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:00:54		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:00:54		INFO		MQTT_CLIENT             
+2018-01-22 20:00:55		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:00:55		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:00:55		INFO		MQTT_CLIENT             
+2018-01-22 20:00:56		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:00:56		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:00:56		INFO		MQTT_CLIENT             
+2018-01-22 20:00:57		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:00:57		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:00:57		INFO		MQTT_CLIENT             
+2018-01-22 20:00:59		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:00:59		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:00:59		INFO		MQTT_CLIENT             
+2018-01-22 20:01:00		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:01:00		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:01:00		INFO		MQTT_CLIENT             
+2018-01-22 20:01:01		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:01:01		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:01:01		INFO		MQTT_CLIENT             
+2018-01-22 20:01:02		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:01:02		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:01:02		INFO		MQTT_CLIENT             
+2018-01-22 20:01:03		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:01:03		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:01:03		INFO		MQTT_CLIENT             
+2018-01-22 20:01:04		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:01:04		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:01:04		INFO		MQTT_CLIENT             
+2018-01-22 20:01:05		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:01:05		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:01:05		INFO		MQTT_CLIENT             
+2018-01-22 20:01:06		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:01:06		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:01:06		INFO		MQTT_CLIENT             
+2018-01-22 20:01:07		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:01:07		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:01:07		INFO		MQTT_CLIENT             
+2018-01-22 20:01:08		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:01:08		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:01:08		INFO		MQTT_CLIENT             
+2018-01-22 20:01:09		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:01:09		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:01:09		INFO		MQTT_CLIENT             
+2018-01-22 20:01:10		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:01:10		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:01:10		INFO		MQTT_CLIENT             
+2018-01-22 20:01:16		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:01:16		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:01:16		INFO		MQTT_CLIENT             
+2018-01-22 20:01:17		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:01:17		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:01:17		INFO		MQTT_CLIENT             
+2018-01-22 20:01:18		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:01:18		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:01:18		INFO		MQTT_CLIENT             
+2018-01-22 20:01:19		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:01:19		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:01:19		INFO		MQTT_CLIENT             
+2018-01-22 20:01:20		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:01:20		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:01:20		INFO		MQTT_CLIENT             
+2018-01-22 20:01:21		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:01:21		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:01:21		INFO		MQTT_CLIENT             
+2018-01-22 20:01:22		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:01:22		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:01:22		INFO		MQTT_CLIENT             
+2018-01-22 20:01:23		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:01:23		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:01:23		INFO		MQTT_CLIENT             
+2018-01-22 20:01:25		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:01:25		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:01:25		INFO		MQTT_CLIENT             
+2018-01-22 20:01:26		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:01:26		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:01:26		INFO		MQTT_CLIENT             
+2018-01-22 20:01:27		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:01:27		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:01:27		INFO		MQTT_CLIENT             
+2018-01-22 20:01:28		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:01:28		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:01:28		INFO		MQTT_CLIENT             
+2018-01-22 20:01:29		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:01:29		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:01:29		INFO		MQTT_CLIENT             
+2018-01-22 20:01:30		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:01:30		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:01:30		INFO		MQTT_CLIENT             
+2018-01-22 20:01:31		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:01:31		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:01:31		INFO		MQTT_CLIENT             
+2018-01-22 20:01:32		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:01:32		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:01:32		INFO		MQTT_CLIENT             
+2018-01-22 20:01:33		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:01:33		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:01:33		INFO		MQTT_CLIENT             
+2018-01-22 20:01:34		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:01:34		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:01:34		INFO		MQTT_CLIENT             
+2018-01-22 20:01:35		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:01:35		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:01:35		INFO		MQTT_CLIENT             
+2018-01-22 20:01:36		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:01:36		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:01:36		INFO		MQTT_CLIENT             
+2018-01-22 20:01:37		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:01:37		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:01:37		INFO		MQTT_CLIENT             
+2018-01-22 20:01:38		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:01:38		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:01:38		INFO		MQTT_CLIENT             
+2018-01-22 20:01:39		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:01:39		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:01:39		INFO		MQTT_CLIENT             
+2018-01-22 20:01:40		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:01:40		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:01:40		INFO		MQTT_CLIENT             
+2018-01-22 20:01:41		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:01:41		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:01:41		INFO		MQTT_CLIENT             
+2018-01-22 20:01:42		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:01:42		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:01:42		INFO		MQTT_CLIENT             
+2018-01-22 20:01:43		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:01:43		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:01:43		INFO		MQTT_CLIENT             
+2018-01-22 20:01:44		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:01:44		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:01:44		INFO		MQTT_CLIENT             
+2018-01-22 20:01:45		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:01:45		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:01:45		INFO		MQTT_CLIENT             
+2018-01-22 20:01:46		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:01:46		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:01:46		INFO		MQTT_CLIENT             
+2018-01-22 20:01:47		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:01:47		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:01:47		INFO		MQTT_CLIENT             
+2018-01-22 20:01:48		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:01:48		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:01:48		INFO		MQTT_CLIENT             
+2018-01-22 20:01:50		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:01:50		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:01:50		INFO		MQTT_CLIENT             
+2018-01-22 20:01:51		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:01:51		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:01:51		INFO		MQTT_CLIENT             
+2018-01-22 20:01:52		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:01:52		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:01:52		INFO		MQTT_CLIENT             
+2018-01-22 20:01:53		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:01:53		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:01:53		INFO		MQTT_CLIENT             
+2018-01-22 20:01:54		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:01:54		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:01:54		INFO		MQTT_CLIENT             
+2018-01-22 20:01:55		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:01:55		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:01:55		INFO		MQTT_CLIENT             
+2018-01-22 20:01:56		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:01:56		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:01:56		INFO		MQTT_CLIENT             
+2018-01-22 20:01:57		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:01:57		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:01:57		INFO		MQTT_CLIENT             
+2018-01-22 20:01:58		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:01:58		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:01:58		INFO		MQTT_CLIENT             
+2018-01-22 20:01:59		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:01:59		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:01:59		INFO		MQTT_CLIENT             
+2018-01-22 20:02:00		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:02:00		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:02:00		INFO		MQTT_CLIENT             
+2018-01-22 20:02:01		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:02:01		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:02:01		INFO		MQTT_CLIENT             
+2018-01-22 20:02:02		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:02:02		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:02:02		INFO		MQTT_CLIENT             
+2018-01-22 20:02:03		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:02:03		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:02:03		INFO		MQTT_CLIENT             
+2018-01-22 20:02:04		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:02:04		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:02:04		INFO		MQTT_CLIENT             
+2018-01-22 20:02:05		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:02:05		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:02:05		INFO		MQTT_CLIENT             
+2018-01-22 20:02:07		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:02:07		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:02:07		INFO		MQTT_CLIENT             
+2018-01-22 20:02:08		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:02:08		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:02:08		INFO		MQTT_CLIENT             
+2018-01-22 20:02:09		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:02:09		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:02:09		INFO		MQTT_CLIENT             
+2018-01-22 20:02:10		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:02:10		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:02:10		INFO		MQTT_CLIENT             
+2018-01-22 20:02:11		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:02:11		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:02:11		INFO		MQTT_CLIENT             
+2018-01-22 20:02:12		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:02:12		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:02:12		INFO		MQTT_CLIENT             
+2018-01-22 20:02:13		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:02:13		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:02:13		INFO		MQTT_CLIENT             
+2018-01-22 20:02:14		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:02:14		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:02:14		INFO		MQTT_CLIENT             
+2018-01-22 20:02:15		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:02:15		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:02:15		INFO		MQTT_CLIENT             
+2018-01-22 20:02:16		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:02:16		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:02:16		INFO		MQTT_CLIENT             
+2018-01-22 20:02:18		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:02:18		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:02:18		INFO		MQTT_CLIENT             
+2018-01-22 20:02:19		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:02:19		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:02:19		INFO		MQTT_CLIENT             
+2018-01-22 20:02:20		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:02:20		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:02:20		INFO		MQTT_CLIENT             
+2018-01-22 20:02:21		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:02:21		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:02:21		INFO		MQTT_CLIENT             
+2018-01-22 20:02:22		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:02:22		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:02:22		INFO		MQTT_CLIENT             
+2018-01-22 20:02:23		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:02:23		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:02:23		INFO		MQTT_CLIENT             
+2018-01-22 20:02:24		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:02:24		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:02:24		INFO		MQTT_CLIENT             
+2018-01-22 20:02:25		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:02:25		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:02:25		INFO		MQTT_CLIENT             
+2018-01-22 20:02:26		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:02:26		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:02:26		INFO		MQTT_CLIENT             
+2018-01-22 20:02:28		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:02:28		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:02:28		INFO		MQTT_CLIENT             
+2018-01-22 20:02:29		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:02:29		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:02:29		INFO		MQTT_CLIENT             
+2018-01-22 20:02:30		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:02:30		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:02:30		INFO		MQTT_CLIENT             
+2018-01-22 20:02:31		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:02:31		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:02:31		INFO		MQTT_CLIENT             
+2018-01-22 20:02:32		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:02:32		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:02:32		INFO		MQTT_CLIENT             
+2018-01-22 20:02:33		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:02:33		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:02:33		INFO		MQTT_CLIENT             
+2018-01-22 20:02:34		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:02:34		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:02:34		INFO		MQTT_CLIENT             
+2018-01-22 20:02:35		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:02:35		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:02:35		INFO		MQTT_CLIENT             
+2018-01-22 20:02:36		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:02:36		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:02:36		INFO		MQTT_CLIENT             
+2018-01-22 20:02:37		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:02:37		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:02:37		INFO		MQTT_CLIENT             
+2018-01-22 20:02:38		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:02:38		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:02:38		INFO		MQTT_CLIENT             
+2018-01-22 20:02:39		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:02:39		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:02:39		INFO		MQTT_CLIENT             
+2018-01-22 20:02:40		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:02:40		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:02:40		INFO		MQTT_CLIENT             
+2018-01-22 20:02:41		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:02:41		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:02:41		INFO		MQTT_CLIENT             
+2018-01-22 20:02:42		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:02:42		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:02:42		INFO		MQTT_CLIENT             
+2018-01-22 20:02:43		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:02:43		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:02:43		INFO		MQTT_CLIENT             
+2018-01-22 20:02:44		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:02:44		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:02:44		INFO		MQTT_CLIENT             
+2018-01-22 20:02:45		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:02:45		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:02:45		INFO		MQTT_CLIENT             
+2018-01-22 20:02:46		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:02:46		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:02:46		INFO		MQTT_CLIENT             
+2018-01-22 20:02:47		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:02:47		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:02:47		INFO		MQTT_CLIENT             
+2018-01-22 20:02:48		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:02:48		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:02:48		INFO		MQTT_CLIENT             
+2018-01-22 20:02:49		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:02:49		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:02:49		INFO		MQTT_CLIENT             
+2018-01-22 20:02:50		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:02:50		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:02:50		INFO		MQTT_CLIENT             
+2018-01-22 20:02:52		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:02:52		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:02:52		INFO		MQTT_CLIENT             
+2018-01-22 20:02:53		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:02:53		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:02:53		INFO		MQTT_CLIENT             
+2018-01-22 20:02:54		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:02:54		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:02:54		INFO		MQTT_CLIENT             
+2018-01-22 20:02:55		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:02:55		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:02:55		INFO		MQTT_CLIENT             
+2018-01-22 20:02:56		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:02:56		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:02:56		INFO		MQTT_CLIENT             
+2018-01-22 20:02:57		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:02:57		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:02:57		INFO		MQTT_CLIENT             
+2018-01-22 20:02:58		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-5c:cf:7f:10:3d:72'
+2018-01-22 20:02:58		INFO		MQTT_CLIENT             Node 'node-5c:cf:7f:10:3d:72' has successfully been verified
+2018-01-22 20:02:58		INFO		MQTT_CLIENT             
+2018-01-22 20:02:58		INFO		MQTT_CLIENT             Client disconnected from broker
+2018-01-22 20:03:03		INFO		MQTT_CLIENT             Client connected on broker

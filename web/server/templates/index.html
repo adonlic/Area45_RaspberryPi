@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="Sustav za nadgledanje IoT uređaja.">
+        <meta name="author" content="Ante Đonlić">
+        <title>Group 45</title>
+
+        <!-- latest and minified Bootstrap -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+        <!-- other styles -->
+        <link rel="stylesheet" type="text/css" href="../static/custom/css/global_style.css">
+    </head>
+    <body>
+        <form action="index.html" method="post">
+            <b style="color: black">Nodes</b>
+            <ul style="list-style-type: none">
+                <!-- create list of nodes here -->
+                {% for node_id in nodes: %}
+                    <li><a href="nodes/{{node_id}}" style="color: black">{{node_id}}</a></li>
+                {% endfor %}
+            </ul>
+        </form>
+        <b><a href="api" style="color: black">API</a></b>
+            <ul style="list-style-type: none">
+                <li><a href="api/get_node_data" style="color: black">/get_node_data</a></li>
+            </ul>
+    </body>
+</html>

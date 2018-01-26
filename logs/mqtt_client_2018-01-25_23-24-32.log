@@ -1,0 +1,9 @@
+2018-01-25 23:24:32		INFO		MQTT_CLIENT             Trying to connect to 'localhost:1883' as b'root-74:e5:0b:3b:20:58' with keepalive 60, 2 second/s delay
+2018-01-25 23:24:34		INFO		MQTT_CLIENT             MQTT server isn't up or broker address and/or port are invalid, will try to reconnect...
+2018-01-25 23:24:40		INFO		MQTT_CLIENT             Client connected on broker
+2018-01-25 23:24:43		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-50;2;senzor|5|DHT22|temperatura|C|5;senzor|6||temperatura|C|6|vlaga|%|6'
+2018-01-25 23:24:43		INFO		MQTT_CLIENT             Node 'node-50' has successfully been verified
+2018-01-25 23:24:43		INFO		MQTT_CLIENT             Confirmation sent to node 'node-50'
+2018-01-25 23:24:47		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-50;2;senzor|5|DHT22|temperatura|C|5;senzor|6||temperatura|C|6|vlaga|%|6'
+2018-01-25 23:24:47		INFO		MQTT_CLIENT             Node 'node-50' has successfully been verified
+2018-01-25 23:24:47		INFO		MQTT_CLIENT             Confirmation sent to node 'node-50'

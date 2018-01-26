@@ -1,0 +1,10 @@
+2018-01-26 11:22:16		INFO		MQTT_CLIENT             Trying to connect to 'localhost:1883' as b'root-74:e5:0b:3b:20:58' with keepalive 60, 2 second/s delay
+2018-01-26 11:22:16		INFO		MQTT_CLIENT             Client connected on broker
+2018-01-26 11:35:47		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-60:1:94:35:cf:d'
+2018-01-26 11:35:47		INFO		MQTT_CLIENT             Node 'node-60:1:94:35:cf:d' has successfully been verified
+2018-01-26 11:35:47		INFO		MQTT_CLIENT             Confirmation sent to node 'node-60:1:94:35:cf:d'
+2018-01-26 11:50:34		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-60:1:94:35:cf:d'
+2018-01-26 11:50:34		INFO		MQTT_CLIENT             Node 'node-60:1:94:35:cf:d' has successfully been verified
+2018-01-26 11:50:34		INFO		MQTT_CLIENT             Confirmation sent to node 'node-60:1:94:35:cf:d'
+2018-01-26 17:43:17		INFO		MQTT_CLIENT             Client disconnected from broker
+2018-01-26 17:43:19		INFO		MQTT_CLIENT             Client connected on broker

@@ -1,0 +1,4 @@
+2018-01-22 13:19:46		INFO		MQTT_CLIENT             Trying to connect to 'localhost:1883' as b'root-74:e5:0b:3b:20:58' with keepalive 60, 2 second/s delay
+2018-01-22 13:19:46		INFO		MQTT_CLIENT             Client connected on broker
+2018-01-22 13:19:58		WARNING		MQTT_CLIENT             Upcoming sync/registration request, data: 'node-50;2;senzor|5|DHT22|temperatura|C|5;senzor|6||temperatura|C|6|vlaga|%|6'
+2018-01-22 13:19:58		INFO		MQTT_CLIENT             Node 'node-50' has successfully been verified

@@ -1,0 +1,6 @@
+2018-01-25 22:57:18		INFO		WEB_SHARED              User 'coll01' is successfully deleted
+2018-01-25 22:57:23		INFO		WEB_SHARED              User 'admin01' is successfully deleted
+2018-01-25 22:57:29		INFO		WEB_SHARED              User 'collector01' is successfully deleted
+2018-01-25 22:57:50		INFO		WEB_SHARED              User 'admin007' with role 'admin' is successfully added to database
+2018-01-25 22:58:13		INFO		WEB_SHARED              User 'stjepan_collector' with role 'collector' is successfully added to database
+API key is assigned to 'stjepan_collector'

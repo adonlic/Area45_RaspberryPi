@@ -1,0 +1,15 @@
+body {
+    padding: 20px;
+}
+
+table .info .data {
+    padding-left: 15px;
+}
+
+table .details th td {
+    border: 1px solid black;
+}
+
+table .details {
+    border-collapse: collapse;
+}

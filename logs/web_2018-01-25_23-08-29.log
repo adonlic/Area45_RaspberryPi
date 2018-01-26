@@ -1,0 +1,2 @@
+2018-01-25 23:08:29		WARNING		WEB_SHARED              '127.0.0.1' is trying to access information about node 'node-60:1:94:35:cf:d'
+2018-01-25 23:08:32		WARNING		WEB_SHARED              '127.0.0.1' is trying to access node data

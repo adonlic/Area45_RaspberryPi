@@ -1,0 +1,38 @@
+2018-01-26 11:18:56		INFO		WEB_SHARED              Server running at localhost:5000
+2018-01-26 11:19:42		WARNING		WEB_SHARED              '127.0.0.1' is trying to access information about node 'node-60:1:94:35:cf:d'
+2018-01-26 11:30:12		WARNING		WEB_SHARED              '127.0.0.1' is trying to access node data
+2018-01-26 11:30:18		WARNING		WEB_SHARED              '127.0.0.1' is trying to access node data
+2018-01-26 11:30:37		WARNING		WEB_SHARED              '127.0.0.1' is trying to access node data
+2018-01-26 11:30:43		WARNING		WEB_SHARED              '127.0.0.1' is trying to access node data
+2018-01-26 11:30:43		INFO		WEB_SHARED              'stjepan_collector''s API key found
+2018-01-26 11:30:47		WARNING		WEB_SHARED              '127.0.0.1' is trying to access information about node 'node-60:1:94:35:cf:d'
+2018-01-26 11:34:59		WARNING		WEB_SHARED              '192.168.43.12' is trying to access node data
+2018-01-26 11:34:59		INFO		WEB_SHARED              'stjepan_collector''s API key found
+2018-01-26 11:35:28		WARNING		WEB_SHARED              '192.168.43.12' is trying to access node data
+2018-01-26 11:35:28		INFO		WEB_SHARED              'stjepan_collector''s API key found
+2018-01-26 11:35:38		WARNING		WEB_SHARED              '192.168.43.12' is trying to access node data
+2018-01-26 11:35:38		INFO		WEB_SHARED              'stjepan_collector''s API key found
+2018-01-26 11:35:48		WARNING		WEB_SHARED              '192.168.43.12' is trying to access node data
+2018-01-26 11:35:48		INFO		WEB_SHARED              'stjepan_collector''s API key found
+2018-01-26 11:35:58		WARNING		WEB_SHARED              '192.168.43.12' is trying to access node data
+2018-01-26 11:35:58		INFO		WEB_SHARED              'stjepan_collector''s API key found
+2018-01-26 11:36:08		WARNING		WEB_SHARED              '192.168.43.12' is trying to access node data
+2018-01-26 11:36:08		INFO		WEB_SHARED              'stjepan_collector''s API key found
+2018-01-26 11:36:18		WARNING		WEB_SHARED              '192.168.43.12' is trying to access node data
+2018-01-26 11:36:18		INFO		WEB_SHARED              'stjepan_collector''s API key found
+2018-01-26 11:36:28		WARNING		WEB_SHARED              '192.168.43.12' is trying to access node data
+2018-01-26 11:36:28		INFO		WEB_SHARED              'stjepan_collector''s API key found
+2018-01-26 11:36:38		WARNING		WEB_SHARED              '192.168.43.12' is trying to access node data
+2018-01-26 11:36:38		INFO		WEB_SHARED              'stjepan_collector''s API key found
+2018-01-26 11:36:48		WARNING		WEB_SHARED              '192.168.43.12' is trying to access node data
+2018-01-26 11:36:48		INFO		WEB_SHARED              'stjepan_collector''s API key found
+2018-01-26 11:36:58		WARNING		WEB_SHARED              '192.168.43.12' is trying to access node data
+2018-01-26 11:36:58		INFO		WEB_SHARED              'stjepan_collector''s API key found
+2018-01-26 11:37:08		WARNING		WEB_SHARED              '192.168.43.12' is trying to access node data
+2018-01-26 11:37:08		INFO		WEB_SHARED              'stjepan_collector''s API key found
+2018-01-26 11:37:18		WARNING		WEB_SHARED              '192.168.43.12' is trying to access node data
+2018-01-26 11:37:18		INFO		WEB_SHARED              'stjepan_collector''s API key found
+2018-01-26 11:37:28		WARNING		WEB_SHARED              '192.168.43.12' is trying to access node data
+2018-01-26 11:37:28		INFO		WEB_SHARED              'stjepan_collector''s API key found
+2018-01-26 11:37:38		WARNING		WEB_SHARED              '192.168.43.12' is trying to access node data
+2018-01-26 11:37:38		INFO		WEB_SHARED              'stjepan_collector''s API key found

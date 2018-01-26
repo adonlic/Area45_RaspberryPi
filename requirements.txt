@@ -1,0 +1,4 @@
+netifaces
+paho-mqtt
+flask
+sqlalchemy
